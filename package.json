@@ -1,0 +1,28 @@
+{
+  "name": "smart-waste-analyzer",
+  "version": "1.0.0",
+  "description": "AI-powered waste analyzer with disposal tips and reuse suggestions",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "waste",
+    "recycling",
+    "ai",
+    "computer-vision",
+    "environment"
+  ],
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
