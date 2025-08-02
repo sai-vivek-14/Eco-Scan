@@ -79,7 +79,8 @@ Knowledge sharing of local recycling programs and guidelines
 
 
 <img width="1339" height="918" alt="image" src="https://github.com/user-attachments/assets/1cb13ff2-4dce-4e0b-8209-184a4a98902d" />
-<img width="957" height="413" alt="image" src="https://github.com/user-attachments/assets/cb3293cb-157d-4b71-b205-1d3a250248c8" />
+<img width="1206" height="962" alt="image" src="https://github.com/user-attachments/assets/d738d9fa-6604-46e0-af0a-9783998509d7" />
+
 
 
 
