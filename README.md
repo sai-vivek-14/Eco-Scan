@@ -89,5 +89,6 @@ Knowledge sharing of local recycling programs and guidelines
 Team Members and Roles:
 
 Sai vivek Madisetti - Frontend,api
-Siddardha koduri - backend
+Seeda Mahesh - backend
 Yaswanth Sai Adapa - ui , backend
+Vipparthi Satya Vivek - backend
